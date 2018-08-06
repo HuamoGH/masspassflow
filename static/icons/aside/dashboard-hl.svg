@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="14px" viewBox="0 0 16 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>dark/aside/dashbord-hl</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="00a" transform="translate(-64.000000, -213.000000)">
+            <g id="dark/aside/dashbord-hl" transform="translate(64.000000, 212.000000)">
+                <rect id="Rectangle-4" x="0" y="0" width="16" height="16"></rect>
+                <path d="M13.4646996,13.9669118 C14.4253715,12.7522457 15,11.210401 15,9.53252262 C15,5.61404983 11.8659932,2.4375 8,2.4375 C4.13400675,2.4375 1,5.61404983 1,9.53252262 C1,11.210401 1.57462853,12.7522457 2.53530042,13.9669118" id="Oval-11" stroke-opacity="0.5" stroke="#1C6FE6"></path>
+                <path d="M13.4372172,5.06360564 C12.1537852,3.46137619 10.1948608,2.4375 8,2.4375 C4.13400675,2.4375 1,5.61404983 1,9.53252262 C1,11.210401 1.57462853,12.7522457 2.53530042,13.9669118" id="Oval-11" stroke="#1C6FE6" stroke-width="2"></path>
+                <path d="M14.5954013,4.37733153 L9.24347048,10.2961582 C9.06798708,10.8144482 8.577559,11.1875 8,11.1875 C7.27512627,11.1875 6.6875,10.5998737 6.6875,9.875 C6.6875,9.21299956 7.17760939,8.66547031 7.81477166,8.57546875 L14.088378,3.77800516 C14.2665395,3.96958123 14.4357682,4.16957765 14.5954013,4.37733153 Z" id="Path-837" fill="#1C6FE6" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

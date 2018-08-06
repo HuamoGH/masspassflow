@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="62px" viewBox="0 0 62 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Drak/chart/district</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="00a" transform="translate(-163.000000, -355.000000)">
+            <g id="Drak/chart/district" transform="translate(164.000000, 356.000000)">
+                <circle id="Oval-4" stroke-opacity="0.5" stroke="#FFFFFF" cx="30" cy="30" r="30"></circle>
+                <g id="人3" transform="translate(15.000000, 14.000000)">
+                    <rect id="Rectangle-path" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="32" height="32"></rect>
+                    <path d="M4.85714287,25.2857143 L25.4285714,25.2857143 M5.71428571,25.2857143 L5.71428571,21 M24.5714285,25.2857143 L24.5714285,21 M21.1428571,25.2857143 L21.1428571,22.7142857 M9.14285714,25.2857143 L9.14285714,22.7142857 M12.5714286,25.2857143 L12.5714286,22.7142857 M17.7142857,25.2857143 L17.7142857,22.7142857 M15.1428571,21 C17.7142857,14.1428571 21.1428571,12.953125 21.1428571,8.68749999 C21.1428571,5.54638048 18.4565656,3 15.1428571,3 C11.8291486,3 9.14285714,5.54638048 9.14285714,8.68749999 C9.14285714,12.953125 12.5714286,14.1428571 15.1428571,21 Z M15.1428571,9.85714285 C15.6162441,9.85714285 16,9.47338692 16,8.99999999 C16,8.52661307 15.6162441,8.14285714 15.1428571,8.14285714 C14.6694702,8.14285714 14.2857143,8.52661307 14.2857143,8.99999999 C14.2857143,9.47338692 14.6694702,9.85714285 15.1428571,9.85714285 Z" id="Path-230" stroke-opacity="0.7" stroke="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

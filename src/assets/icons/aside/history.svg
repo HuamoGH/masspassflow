@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="14px" viewBox="0 0 12 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>dark/aside/history</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="00a" transform="translate(-345.000000, -171.000000)">
+            <g id="dark/aside/history" transform="translate(343.000000, 170.000000)">
+                <rect id="Rectangle-4" x="0" y="0" width="16" height="16"></rect>
+                <path d="M9.15384615,2 L3,2 L3,14 L13,14 L13,6 L9.15384615,2 Z M9.15384615,2 L9.15384615,6 L13,6 M5.56678122,11.6 C5.4006504,11.2362978 5.30769231,10.8294389 5.30769231,10.4 C5.30769231,8.8536027 6.51307952,7.6 8,7.6 C9.48692048,7.6 10.6923077,8.8536027 10.6923077,10.4 C10.6923077,10.8294389 10.5993496,11.2362978 10.4332188,11.6 M8,11.2 L9.53846154,9.6 M4.92307692,5.2 L7.23076923,5.2" id="Path-121" stroke="#CED3D7"></path>
+            </g>
+        </g>
+    </g>
+</svg>

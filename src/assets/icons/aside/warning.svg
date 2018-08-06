@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="62px" viewBox="0 0 62 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Drak/chart/warning</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="00a" transform="translate(-273.000000, -354.000000)">
+            <g id="Drak/chart/warning" transform="translate(274.000000, 355.000000)">
+                <ellipse id="Oval-4" stroke-opacity="0.3" stroke="#FFFFFF" cx="30" cy="30.2362205" rx="30" ry="30.2362205"></ellipse>
+                <g id="warning" opacity="0.6" transform="translate(14.000000, 14.110236)">
+                    <rect id="Rectangle-path" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="32" height="32.2519685"></rect>
+                    <g id="Group" transform="translate(4.000000, 6.047244)">
+                        <polygon id="Shape" fill="#FFFFFF" transform="translate(11.889525, 10.366704) rotate(10.000000) translate(-11.889525, -10.366704) " points="12.6960613 3.45556805 8.57142857 12.9097176 11.914247 12.9213953 11.8416297 17.2778403 15.207621 10.5512383 11.874775 10.5352943"></polygon>
+                        <path d="M0,19.0056243 L24,19.0056243" id="Line" stroke="#FFFFFF" stroke-width="2"></path>
+                        <path d="M3.42857143,19.1496063 L3.42857143,7.25669291 C3.42857143,3.24893208 7.26613072,8.05654756e-16 12,0 C16.7338693,-6.71378963e-16 20.5714286,3.24893208 20.5714286,7.25669291 L20.5714286,19.1496063" id="Rectangle-2" stroke="#FFFFFF" stroke-width="2"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

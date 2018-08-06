@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="15px" viewBox="0 0 16 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>dark/aside/view-hl</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="00a" transform="translate(-188.000000, -213.000000)">
+            <g id="dark/aside/view-hl" transform="translate(188.000000, 212.000000)">
+                <rect id="Rectangle-4" x="0" y="0" width="16" height="16"></rect>
+                <polygon id="Path-279" stroke="#1C6FE6" points="5.22105258 10.0842105 2.78947366 8 1.4 12.5157894 3.83157891 14.5999999 10.0842104 13.2105262 13.5578946 14.5999999 14.5999998 9.73684208 11.4736841 8.34736842"></polygon>
+                <path d="M10.4,13 L11.7823447,8 M4.19999999,14.6 L5.84705881,9.4" id="Path-280" stroke="#1C6FE6" stroke-dasharray="1"></path>
+                <path d="M8,11.2 C7.14285714,6.95 5,6.20625 5,3.975 C5,2.33195287 6.34314575,1 8,1 C9.65685425,1 11,2.33195287 11,3.975 C11,6.20625 8.85714286,6.95 8,11.2 Z M8,5.2 C8.6627417,5.2 9.2,4.6627417 9.2,4 C9.2,3.3372583 8.6627417,2.8 8,2.8 C7.3372583,2.8 6.8,3.3372583 6.8,4 C6.8,4.6627417 7.3372583,5.2 8,5.2 Z" id="Oval-125" fill="#1C6FE6"></path>
+            </g>
+        </g>
+    </g>
+</svg>

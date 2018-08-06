@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="6px" viewBox="0 0 10 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>dark/aside/arrow-down</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="00a" transform="translate(-501.000000, -175.000000)">
+            <g id="dark/aside/arrow-down" transform="translate(498.000000, 170.000000)">
+                <rect id="Rectangle-4" x="0" y="0" width="16" height="16"></rect>
+                <polyline id="arrow_dropmenu" stroke="#CED3D7" stroke-width="1.5" points="4 6 8 10 12 6"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
